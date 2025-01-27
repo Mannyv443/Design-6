@@ -3,7 +3,8 @@
 ### EMMANUEL VEGA
 
 **Greetings And Salutations**
-*Hope you're having a great day
+
+*Hope you're having a great day*
 > I'm a third-year Electrical Engineering major
 > and I'm Interested in the Semiconductor field
 
