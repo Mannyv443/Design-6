@@ -6,7 +6,7 @@
 
 *Hope you're having a great day*
 > I'm a third-year Electrical Engineering major
-> and I'm Interested in the Semiconductor field
+> and I'm Interested in the Semiconductor field.
 
 'Cities I've Lived In'
 
