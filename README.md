@@ -32,4 +32,4 @@
 
 **Here Is The Link To My Team Project Site**
 
-(https://sites.google.com/stevens.edu/evteamprojectsite?usp=sharing)
+(https://sites.google.com/stevens.edu/designviteamproject/home)
