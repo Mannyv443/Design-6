@@ -5,5 +5,5 @@
 
 
 ### D Flip-Flop
-
+![Image](https://github.com/Mannyv443/Design-6/blob/b75fd74a59dbe6d9e54977f01107c54117e56337/lab1/lab1-2.png)
 
