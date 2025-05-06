@@ -2,7 +2,7 @@
 ## Lab 6
 ### Terminal outputs
 
-Node.js
+Node.js:
 
 ![Image](https://github.com/Mannyv443/Design-6/blob/dada87753868bdce759d3a29334f9f82c1402218/Lab6/Lab6-1.png)
 
@@ -14,6 +14,8 @@ Node.js
 
 ![Image](https://github.com/Mannyv443/Design-6/blob/cd4f32ff4084f1346903c4c23b8fe6abd2d13aed/Lab6/Lab6-3-3.png)
 
-Pystache
+Pystache:
 
 ![Image](https://github.com/Mannyv443/Design-6/blob/666e36de2f673366473fc68a9667f193a1312db4/Lab6/Lab6-4.png)
+
+![Image](https://github.com/Mannyv443/Design-6/blob/54887e0ac937b40c17eef73318fbde5d466d4790/Lab6/Lab6-5.png)
