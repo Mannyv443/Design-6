@@ -15,3 +15,5 @@ Node.js
 ![Image](https://github.com/Mannyv443/Design-6/blob/cd4f32ff4084f1346903c4c23b8fe6abd2d13aed/Lab6/Lab6-3-3.png)
 
 Pystache
+
+![Image](https://github.com/Mannyv443/Design-6/blob/666e36de2f673366473fc68a9667f193a1312db4/Lab6/Lab6-4.png)
